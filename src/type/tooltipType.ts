@@ -11,9 +11,3 @@ export type TooltipPosition =
   | "bottom-left"
   | "bottom-middle"
   | "bottom-right";
-
-export interface TooltipButtonProps {
-  position: TooltipPosition;
-  text: string;
-  tooltipText: string;
-}
