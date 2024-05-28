@@ -272,7 +272,7 @@ cd your-repository
 
 2.  의존성 설치:
 ```
-yarn add
+yarn install 
 ```
 
 3.  개발 서버 실행:
