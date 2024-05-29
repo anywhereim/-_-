@@ -266,8 +266,7 @@ export default App;
 
 1. 레포지토리 클론:
 ```
-git clone https://github.com/your-username/your-repository.git
-cd your-repository
+git clone https://github.com/anywhereim/terra-coding-test.git
 ```
 
 2.  의존성 설치:
