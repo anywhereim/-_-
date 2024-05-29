@@ -281,4 +281,7 @@ npm install
 3.  개발 서버 실행:
 ```
 yarn start
+
+*yarn이 없는 경우
+npm start
 ```
